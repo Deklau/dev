@@ -1,0 +1,3 @@
+var image = new Image();
+image.src = '/Codecool: Projects/progbasics/weekpair1/screenshots/github-dev-screenshot.jpg'
+document.body.appendChild(github-def-screenshot.jpg)
